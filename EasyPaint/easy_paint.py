@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import numpy as np
 
 
 def beautify_line_chart(x_start, x_end, y_start, y_end):
